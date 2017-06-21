@@ -2,6 +2,6 @@
 
 int main
 {
-  printf("hello word\n");
+  printf("hello readme-edits\n");
   return 0;
 }
